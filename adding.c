@@ -4,7 +4,7 @@ int main()
 {
   int x, y, z;
 
-  printf("Enter two numbers to add\n");
+  printf("Please Enter two numbers to add\n");
   scanf("%d%d", &x, &y);
 
   z = x + y;
